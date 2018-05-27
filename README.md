@@ -5,10 +5,10 @@
 ## How to use
 
 ## Authors
-**Hongyi Lin**
-**Huijie Xu**
-**Chuanxi Fu**
-**Minjie Zhu**
+* **Hongyi Lin**
+* **Huijie Xu**
+* **Chuanxi Fu**
+* **Minjie Zhu**
 
 ## License
 
