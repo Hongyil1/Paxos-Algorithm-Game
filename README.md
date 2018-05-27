@@ -9,9 +9,9 @@ The aim of this project is to design a simple distributed system using Baisc Pax
 This game requires three users to play together. To start the game, firstly run the server in DAGame-server. Then the users need to run the Andorid program in DAGame-client and connect to the server. The ip and port in clients should match the server side. 
 
 ## Authors
-* **Hongyi Lin**
-* **Huijie Xu**
 * **Chuanxi Fu**
+* **Huijie Xu**
+* **Hongyi Lin**
 * **Minjie Zhu**
 
 ## License
