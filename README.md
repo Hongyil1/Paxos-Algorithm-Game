@@ -1,4 +1,5 @@
 # Paxos-Algorithm-Game
+The aim of this project is to design a simple distributed system using Baisc Paxos Algoritm. The project here is a number-guessing game which enables three users to play togerther. The codes in folder Dew
 
 ## Prerequisites
 * Java
